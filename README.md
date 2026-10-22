@@ -35,7 +35,8 @@ The reproduced ROC-AUC differs from the value reported in the paper by only **0.
 
 ## Reference
 
-Rekatsinas et al., *COPOD: Copula-Based Outlier Detection*, ICDM 2020.
+Li, Z., Zhao, Y., Botta, N., Ionescu, C., and Hu, X.
+COPOD: Copula-Based Outlier Detection, ICDM 2020.
 
 The original COPOD implementation and supplementary material are available in the authors' repository:
 
